@@ -1,0 +1,76 @@
+{
+    "name": "Shotgun",
+    "description": "Shotgun Software makes project management and pipeline tools that help creative studios track, schedule, review, collaborate, and manage their digital assets.\r          Web-based software used on 1000s of productions across 45+ countries. Sign up for a...",
+    "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/1586-shotgun.jpg",
+    "tags": [
+        "css",
+        "have api",
+        "projects",
+        "schedules",
+        "studio",
+        "tasks"
+    ],
+    "created": "2019-12-19",
+    "modified": "2019-12-19",
+    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/shotgun\/master\/apis.json",
+    "specificationVersion": "0.14",
+    "apis": [
+        {
+            "name": "Shotgun",
+            "description": null,
+            "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/1586-shotgun.jpg",
+            "humanURL": "http:\/\/www.shotgunsoftware.com\/developers",
+            "baseURL": "",
+            "tags": [],
+            "properties": [
+                {
+                    "type": "x-openapi",
+                    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/1forge\/master\/shotgun-openapi.json"
+                }
+            ]
+        }
+    ],
+    "include": [],
+    "x-common": [
+        {
+            "type": "Website",
+            "url": "http:\/\/www.shotgunsoftware.com\/developers"
+        },
+        {
+            "type": "Crunchbase",
+            "url": "https:\/\/crunchbase.com\/organization\/shotgun-software"
+        },
+        {
+            "type": "Email",
+            "url": "sales@shotgunsoftware.com"
+        },
+        {
+            "type": "Email",
+            "url": "press@shotgunsoftware.com"
+        },
+        {
+            "type": "Email",
+            "url": "support@shotgunsoftware.com"
+        },
+        {
+            "type": "Email",
+            "url": "contact@shotgunsoftware.com"
+        },
+        {
+            "type": "Email",
+            "url": "feedback@shotgunsoftware.com"
+        },
+        {
+            "type": "Email",
+            "url": "accounts@shotgunsoftware.com"
+        },
+        {
+            "type": "Github",
+            "url": "https:\/\/github.com\/shotgun"
+        },
+        {
+            "type": "Twitter",
+            "url": "https:\/\/twitter.com\/shotgunsoftware"
+        }
+    ]
+}
